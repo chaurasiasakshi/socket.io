@@ -39,5 +39,5 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1N02Dq28cyURg7GJFj2_gn1dVLgM_se16/view?usp=drive_link)
 
+![Screenshot 2024-03-01 152654](https://github.com/chaurasiasakshi/socket.io/assets/121746813/8588861b-3fb4-446c-af36-091714739237)
