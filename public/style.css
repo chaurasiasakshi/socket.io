@@ -39,9 +39,10 @@ section.chat__section {
     overflow-y: auto;
     padding-top: 40px;
 }
-textarea {
+#textarea {
     width: 100%;
     border: none;
+    border-top: 2px solid #333;
     padding: 20px;
     font-size: 16px;
     outline: none;
